@@ -1,0 +1,18 @@
+{
+  "device": "openaps://raspberrypi", 
+  "pump": {
+    "battery": {
+      "status": "normal", 
+      "voltage": 1.36
+    }, 
+    "status": {
+      "status": "normal", 
+      "timestamp": "2016-06-25T17:28:31.000Z", 
+      "bolusing": false, 
+      "suspended": false
+    }, 
+    "reservoir": 261.4, 
+    "clock": "2016-06-25T11:27:18-06:00"
+  }, 
+  "openaps": {}
+}
