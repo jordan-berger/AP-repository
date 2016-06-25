@@ -1,0 +1,5 @@
+{
+  "device": "openaps://raspberrypi", 
+  "pump": {}, 
+  "openaps": {}
+}
