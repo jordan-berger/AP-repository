@@ -1,0 +1,24 @@
+[
+  {
+    "_type": "BasalProfileStart", 
+    "offset": 37800000, 
+    "_description": "BasalProfileStart 2016-06-25T10:30:00 head[2], body[3] op[0x7b]", 
+    "timestamp": "2016-06-25T10:30:00", 
+    "_body": "153a00", 
+    "profile_index": 4, 
+    "_head": "7b04", 
+    "rate": 1.45, 
+    "_date": "409e0a1910"
+  }, 
+  {
+    "_type": "BasalProfileStart", 
+    "offset": 30600000, 
+    "_description": "BasalProfileStart 2016-06-25T08:30:00 head[2], body[3] op[0x7b]", 
+    "timestamp": "2016-06-25T08:30:00", 
+    "_body": "113400", 
+    "profile_index": 3, 
+    "_head": "7b03", 
+    "rate": 1.3, 
+    "_date": "409e081910"
+  }
+]
